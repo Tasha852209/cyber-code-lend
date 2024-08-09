@@ -76,6 +76,10 @@ body {
   color: #e8e5e5;
   font-size: 16px;
 }
+.header_link:hover,
+.header_link:focus {
+  color: #9b96bc;
+}
 .btn_download-header {
   color: #f9f8f8;
   width: 149px;
